@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: opinfo.tallinn.ee. Road geometry: Eesti topograafia andmekogu, Maa- ja Ruumiamet (CC BY 4.0) -->
+<incidents>
+  <incident id="tln-opinfo-302902-1">
+    <creationtime>2026-11-17T14:40:09+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/124850?objekt_id=302902</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Ehitustööd</description>
+    <street>Eduard Bornhöhe tee</street>
+    <polyline>59.474492 24.842225 59.474282 24.842157 59.474209 24.842131 59.474152 24.842097 59.473676 24.841761 59.473269 24.841475 59.471476 24.840207 59.470698 24.839697 59.470344 24.839457 59.470248 24.839392 59.469897 24.839160 59.469778 24.839105 59.469722 24.839094 59.469658 24.839092 59.469609 24.839103 59.469479 24.839137</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2025-09-10T09:00:00+03:00</starttime>
+    <endtime>2026-11-30T23:30:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-342767-1">
+    <creationtime>2026-11-17T10:46:46+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/117877?objekt_id=342767</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Ehitustööd</description>
+    <street>Lennuki</street>
+    <polyline>59.431702 24.759316 59.431704 24.759311 59.431720 24.759290 59.431769 24.759225 59.431840 24.759123 59.432028 24.758678 59.432522 24.757558 59.432547 24.757425 59.432887 24.756723</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-09-14T08:00:00+03:00</starttime>
+    <endtime>2026-11-22T17:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-344731-1">
+    <creationtime>2026-09-24T19:47:06+03:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/138939?objekt_id=344731</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Tee ehitamine</description>
+    <street>Apteegi</street>
+    <polyline>59.437679 24.745976 59.437712 24.746227 59.437716 24.746414 59.437671 24.746708 59.437623 24.746975 59.437561 24.747268</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-09-22T20:31:00+03:00</starttime>
+    <endtime>2026-12-27T17:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-344732-1">
+    <creationtime>2026-09-24T19:47:06+03:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/138939?objekt_id=344732</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Tee ehitamine</description>
+    <street>Vene</street>
+    <polyline>59.437353 24.747027 59.437561 24.747268 59.437664 24.747380</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-09-22T20:31:00+03:00</starttime>
+    <endtime>2026-12-27T17:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-345421-1">
+    <creationtime>2026-10-27T19:31:20+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/141038?objekt_id=345421</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Kaevetöö</description>
+    <street>Rivi</street>
+    <polyline>59.407611 24.725584 59.407475 24.725793 59.407328 24.726019</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-02T08:00:00+02:00</starttime>
+    <endtime>2026-12-04T07:59:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-345423-1">
+    <creationtime>2026-10-27T19:31:20+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/141038?objekt_id=345423</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Kaevetöö</description>
+    <street>Rivi</street>
+    <polyline>59.407969 24.725030 59.407955 24.725052 59.407894 24.725147 59.407687 24.725466</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-12-18T08:00:00+02:00</starttime>
+    <endtime>2026-12-25T08:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-346365-1">
+    <creationtime>2026-10-12T17:56:38+03:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/142332?objekt_id=346365</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Tänavavalgustuse ehitus</description>
+    <street>Asula</street>
+    <polyline>59.415807 24.735135 59.415809 24.735137 59.415913 24.735233 59.415967 24.735284 59.416131 24.735437</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-10-14T08:00:00+03:00</starttime>
+    <endtime>2026-11-30T19:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-347268-1">
+    <creationtime>2026-10-09T23:23:04+03:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/142534?objekt_id=347268</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Ehitustööd</description>
+    <street>Jalami</street>
+    <polyline>59.403306 24.627889 59.403293 24.627897 59.403255 24.627928 59.403210 24.627971 59.403168 24.628012 59.403083 24.628097 59.402982 24.628191</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-10-12T08:00:00+03:00</starttime>
+    <endtime>2027-03-31T19:00:00+03:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-353927-1">
+    <creationtime>2026-11-18T20:43:22+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/140349?objekt_id=353927</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Ehitustööd</description>
+    <street>Kadaka tee</street>
+    <polyline>59.405551 24.658169 59.405495 24.658065 59.405284 24.657698</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-01T00:00:00+02:00</starttime>
+    <endtime>2026-11-30T00:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-355153-1">
+    <creationtime>2026-11-20T14:25:16+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/140836?objekt_id=355153</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Ehitustööd</description>
+    <street>Kotzebue</street>
+    <polyline>59.442037 24.735365 59.442143 24.735641 59.442232 24.735874 59.442252 24.735930</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-16T08:00:00+02:00</starttime>
+    <endtime>2026-11-23T20:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-356008-1">
+    <creationtime>2026-11-20T20:04:25+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/145561?objekt_id=356008</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Ehitustööd</description>
+    <street>Raudtee</street>
+    <polyline>59.385590 24.684393 59.385509 24.683866 59.385487 24.683719</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-25T09:00:00+02:00</starttime>
+    <endtime>2026-11-27T19:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-356901-1">
+    <creationtime>2026-11-16T08:48:10+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/137073?objekt_id=356901</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Gaasitrassi ehitus</description>
+    <street>Kodu</street>
+    <polyline>59.420941 24.753341 59.420999 24.753319 59.421116 24.753274 59.421776 24.752995 59.421889 24.752948 59.422437 24.752711 59.422653 24.752617 59.423082 24.752434 59.423116 24.752419</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-02T00:00:00+02:00</starttime>
+    <endtime>2026-11-27T18:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-356903-1">
+    <creationtime>2026-11-16T08:48:10+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/137073?objekt_id=356903</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Gaasitrassi ehitus</description>
+    <street>Tare</street>
+    <polyline>59.423047 24.752111 59.423082 24.752434 59.423092 24.752521 59.423120 24.752776 59.423123 24.752800</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-02T00:00:00+02:00</starttime>
+    <endtime>2026-11-27T18:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-356904-1">
+    <creationtime>2026-11-17T10:46:46+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/117877?objekt_id=356904</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Ehitustööd</description>
+    <street>Lennuki</street>
+    <polyline>59.432175 24.758344 59.432522 24.757558 59.432547 24.757425 59.432887 24.756723</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-22T17:00:00+02:00</starttime>
+    <endtime>2027-04-30T17:00:00+03:00</endtime>
+  </incident>
+</incidents>
