@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Source: opinfo.tallinn.ee. Road geometry: Eesti topograafia andmekogu, Maa- ja Ruumiamet (CC BY 4.0) -->
 <incidents>
-  <incident id="tln-opinfo-302902-1">
+  <incident id="tln-opinfo-302902-1-r2">
     <creationtime>2026-11-17T14:40:09+02:00</creationtime>
     <source>
       <reference>opinfo.tallinn.ee</reference>
@@ -15,7 +15,7 @@
     <polyline>59.474492 24.842225 59.474282 24.842157 59.474209 24.842131 59.474152 24.842097 59.473676 24.841761 59.473269 24.841475 59.471476 24.840207 59.470698 24.839697 59.470344 24.839457 59.470248 24.839392 59.469897 24.839160 59.469778 24.839105 59.469722 24.839094 59.469658 24.839092 59.469609 24.839103 59.469479 24.839137</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2025-09-10T09:00:00+03:00</starttime>
-    <endtime>2026-11-21T17:59:59+02:00</endtime>
+    <endtime>2026-11-30T23:30:00+02:00</endtime>
   </incident>
   <incident id="tln-opinfo-342767-1">
     <creationtime>2026-11-17T10:46:46+02:00</creationtime>
