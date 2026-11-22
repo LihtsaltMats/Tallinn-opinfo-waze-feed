@@ -17,22 +17,6 @@
     <starttime>2025-09-10T09:00:00+03:00</starttime>
     <endtime>2026-11-30T23:30:00+02:00</endtime>
   </incident>
-  <incident id="tln-opinfo-342767-1">
-    <creationtime>2026-11-17T10:46:46+02:00</creationtime>
-    <source>
-      <reference>opinfo.tallinn.ee</reference>
-      <name>Tallinna operatiivinfo</name>
-      <url>https://opinfo.tallinn.ee/menetlus/117877?objekt_id=342767</url>
-    </source>
-    <type>ROAD_CLOSED</type>
-    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
-    <description>Ehitustööd</description>
-    <street>Lennuki</street>
-    <polyline>59.431702 24.759316 59.431704 24.759311 59.431720 24.759290 59.431769 24.759225 59.431840 24.759123 59.432028 24.758678 59.432522 24.757558 59.432547 24.757425 59.432887 24.756723</polyline>
-    <direction>BOTH_DIRECTIONS</direction>
-    <starttime>2026-09-14T08:00:00+03:00</starttime>
-    <endtime>2026-11-22T17:00:00+02:00</endtime>
-  </incident>
   <incident id="tln-opinfo-344731-1">
     <creationtime>2026-09-24T19:47:06+03:00</creationtime>
     <source>
