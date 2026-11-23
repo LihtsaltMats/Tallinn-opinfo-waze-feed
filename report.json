@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T17:07:50+02:00",
+ "generated": "2026-11-23T18:37:42+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -17,6 +17,60 @@
    },
    "waze_map": {
     "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.419766&lon=24.855001"
+   },
+   "feed": null
+  },
+  {
+   "id": "tln-opinfo-347268-1",
+   "status": "unmatched",
+   "opinfo": {
+    "street": "Jalami tn",
+    "start": "2026-10-12T08:00:00+03:00",
+    "end": "2027-03-31T19:00:00+03:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/142534?objekt_id=347268"
+   },
+   "etak": {
+    "result": "closed area is next to 'Jalami tn', not on it (3 m from its centreline; probably a side road or driveway)"
+   },
+   "waze_map": {
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.403176&lon=24.628561"
+   },
+   "feed": null
+  },
+  {
+   "id": "tln-opinfo-346365-1",
+   "status": "unmatched",
+   "opinfo": {
+    "street": "Asula tn",
+    "start": "2026-10-14T08:00:00+03:00",
+    "end": "2026-11-30T19:00:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/142332?objekt_id=346365"
+   },
+   "etak": {
+    "result": "closed area is next to 'Asula tn', not on it (3 m from its centreline; probably a side road or driveway)"
+   },
+   "waze_map": {
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.416049&lon=24.734939"
+   },
+   "feed": null
+  },
+  {
+   "id": "tln-opinfo-353927-1",
+   "status": "unmatched",
+   "opinfo": {
+    "street": "Kadaka tee",
+    "start": "2026-11-01T00:00:00+02:00",
+    "end": "2026-11-30T00:00:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/140349?objekt_id=353927"
+   },
+   "etak": {
+    "result": "closed area is next to 'Kadaka tee', not on it (18 m from its centreline; probably a side road or driveway)"
+   },
+   "waze_map": {
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.405098&lon=24.661560"
    },
    "feed": null
   },
@@ -53,6 +107,24 @@
    },
    "waze_map": {
     "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.440816&lon=24.703691"
+   },
+   "feed": null
+  },
+  {
+   "id": "tln-opinfo-355153-1",
+   "status": "unmatched",
+   "opinfo": {
+    "street": "Kotzebue tn",
+    "start": "2026-11-16T08:00:00+02:00",
+    "end": "2026-11-23T20:00:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/140836?objekt_id=355153"
+   },
+   "etak": {
+    "result": "closed area is next to 'Kotzebue tn', not on it (3 m from its centreline; probably a side road or driveway)"
+   },
+   "waze_map": {
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.442304&lon=24.735416"
    },
    "feed": null
   },
@@ -150,81 +222,6 @@
    }
   },
   {
-   "id": "tln-opinfo-347268-1",
-   "status": "published",
-   "opinfo": {
-    "street": "Jalami tn",
-    "start": "2026-10-12T08:00:00+03:00",
-    "end": "2027-03-31T19:00:00+03:00",
-    "full_closure": true,
-    "url": "https://opinfo.tallinn.ee/menetlus/142534?objekt_id=347268"
-   },
-   "etak": {
-    "result": "matched 'Jalami tänav' (40 m)"
-   },
-   "waze_map": {
-    "street": "Jalami",
-    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.403176&lon=24.628561"
-   },
-   "feed": {
-    "id": "tln-opinfo-347268-1",
-    "type": "ROAD_CLOSED",
-    "street": "Jalami",
-    "start": "2026-10-12T08:00:00+03:00",
-    "end": "2027-03-31T19:00:00+03:00"
-   }
-  },
-  {
-   "id": "tln-opinfo-346365-1",
-   "status": "published",
-   "opinfo": {
-    "street": "Asula tn",
-    "start": "2026-10-14T08:00:00+03:00",
-    "end": "2026-11-30T19:00:00+02:00",
-    "full_closure": true,
-    "url": "https://opinfo.tallinn.ee/menetlus/142332?objekt_id=346365"
-   },
-   "etak": {
-    "result": "matched 'Asula tänav' (40 m)"
-   },
-   "waze_map": {
-    "street": "Asula",
-    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.416049&lon=24.734939"
-   },
-   "feed": {
-    "id": "tln-opinfo-346365-1",
-    "type": "ROAD_CLOSED",
-    "street": "Asula",
-    "start": "2026-10-14T08:00:00+03:00",
-    "end": "2026-11-30T19:00:00+02:00"
-   }
-  },
-  {
-   "id": "tln-opinfo-353927-1",
-   "status": "published",
-   "opinfo": {
-    "street": "Kadaka tee",
-    "start": "2026-11-01T00:00:00+02:00",
-    "end": "2026-11-30T00:00:00+02:00",
-    "full_closure": true,
-    "url": "https://opinfo.tallinn.ee/menetlus/140349?objekt_id=353927"
-   },
-   "etak": {
-    "result": "matched 'Kadaka tee' (40 m)"
-   },
-   "waze_map": {
-    "street": "Kadaka tee",
-    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.405098&lon=24.661560"
-   },
-   "feed": {
-    "id": "tln-opinfo-353927-1",
-    "type": "ROAD_CLOSED",
-    "street": "Kadaka tee",
-    "start": "2026-11-01T00:00:00+02:00",
-    "end": "2026-11-30T00:00:00+02:00"
-   }
-  },
-  {
    "id": "tln-opinfo-356901-1",
    "status": "published",
    "opinfo": {
@@ -297,31 +294,6 @@
     "street": "Rivi",
     "start": "2026-11-02T08:00:00+02:00",
     "end": "2026-12-04T07:59:00+02:00"
-   }
-  },
-  {
-   "id": "tln-opinfo-355153-1",
-   "status": "published",
-   "opinfo": {
-    "street": "Kotzebue tn",
-    "start": "2026-11-16T08:00:00+02:00",
-    "end": "2026-11-23T20:00:00+02:00",
-    "full_closure": true,
-    "url": "https://opinfo.tallinn.ee/menetlus/140836?objekt_id=355153"
-   },
-   "etak": {
-    "result": "matched 'Kotzebue tänav' (40 m)"
-   },
-   "waze_map": {
-    "street": "Kotzebue",
-    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.442304&lon=24.735416"
-   },
-   "feed": {
-    "id": "tln-opinfo-355153-1",
-    "type": "ROAD_CLOSED",
-    "street": "Kotzebue",
-    "start": "2026-11-16T08:00:00+02:00",
-    "end": "2026-11-23T20:00:00+02:00"
    }
   },
   {
