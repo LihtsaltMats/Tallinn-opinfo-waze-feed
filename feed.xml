@@ -129,6 +129,22 @@
     <starttime>2026-12-16T18:01:00+02:00</starttime>
     <endtime>2026-12-18T18:00:00+02:00</endtime>
   </incident>
+  <incident id="tln-opinfo-356129-1">
+    <creationtime>2026-11-23T21:02:02+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/145588?objekt_id=356129</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Ehitustööd</description>
+    <street>Purje</street>
+    <polyline>59.464668 24.826656 59.464686 24.826612 59.464893 24.826107</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-12-16T18:01:00+02:00</starttime>
+    <endtime>2026-12-18T18:00:00+02:00</endtime>
+  </incident>
   <incident id="tln-opinfo-356901-1">
     <creationtime>2026-11-16T08:48:10+02:00</creationtime>
     <source>
