@@ -28,7 +28,7 @@
     <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
     <description>Tee ehitamine</description>
     <street>Apteegi</street>
-    <polyline>59.437679 24.745976 59.437712 24.746227 59.437716 24.746414 59.437671 24.746708 59.437623 24.746975 59.437561 24.747268</polyline>
+    <polyline>59.437679 24.745976 59.437712 24.746227 59.437716 24.746414 59.437671 24.746708 59.437623 24.746975 59.437577 24.747192</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-09-22T20:31:00+03:00</starttime>
     <endtime>2026-12-27T17:00:00+02:00</endtime>
@@ -44,7 +44,7 @@
     <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
     <description>Tee ehitamine</description>
     <street>Vene</street>
-    <polyline>59.437353 24.747027 59.437561 24.747268 59.437664 24.747380</polyline>
+    <polyline>59.437251 24.746909 59.437560 24.747268</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-09-22T20:31:00+03:00</starttime>
     <endtime>2026-12-27T17:00:00+02:00</endtime>
@@ -76,7 +76,7 @@
     <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
     <description>Kaevetöö</description>
     <street>Rivi</street>
-    <polyline>59.407969 24.725030 59.407955 24.725052 59.407894 24.725147 59.407687 24.725466</polyline>
+    <polyline>59.407969 24.725029 59.407955 24.725052 59.407894 24.725147 59.407688 24.725465</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-12-18T08:00:00+02:00</starttime>
     <endtime>2026-12-25T08:00:00+02:00</endtime>
@@ -108,7 +108,7 @@
     <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
     <description>Ehitustööd</description>
     <street>Masti</street>
-    <polyline>59.464691 24.826689 59.464668 24.826656 59.464362 24.826164 59.464136 24.825803</polyline>
+    <polyline>59.464637 24.826606 59.464362 24.826164 59.464333 24.826119</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-12-14T08:01:00+02:00</starttime>
     <endtime>2026-12-16T18:00:00+02:00</endtime>
@@ -124,7 +124,7 @@
     <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
     <description>Ehitustööd</description>
     <street>Masti</street>
-    <polyline>59.464688 24.826686 59.464668 24.826656 59.464362 24.826164 59.464139 24.825809</polyline>
+    <polyline>59.464636 24.826604 59.464362 24.826164 59.464192 24.825892</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-12-16T18:01:00+02:00</starttime>
     <endtime>2026-12-18T18:00:00+02:00</endtime>
@@ -140,7 +140,7 @@
     <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
     <description>Ehitustööd</description>
     <street>Purje</street>
-    <polyline>59.464607 24.826806 59.464668 24.826656 59.464686 24.826612 59.464863 24.826181</polyline>
+    <polyline>59.464668 24.826656 59.464686 24.826612 59.464893 24.826107</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-12-16T18:01:00+02:00</starttime>
     <endtime>2026-12-18T18:00:00+02:00</endtime>
@@ -156,7 +156,7 @@
     <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
     <description>Gaasitrassi ehitus</description>
     <street>Kodu</street>
-    <polyline>59.420941 24.753341 59.420999 24.753319 59.421116 24.753274 59.421776 24.752995 59.421889 24.752948 59.422437 24.752711 59.422653 24.752617 59.423082 24.752434 59.423116 24.752419</polyline>
+    <polyline>59.421007 24.753316 59.421116 24.753274 59.421776 24.752995 59.421889 24.752948 59.422437 24.752711 59.422653 24.752617 59.423049 24.752448</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-11-02T00:00:00+02:00</starttime>
     <endtime>2026-11-27T18:00:00+02:00</endtime>
@@ -172,7 +172,7 @@
     <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
     <description>Gaasitrassi ehitus</description>
     <street>Tare</street>
-    <polyline>59.423047 24.752111 59.423082 24.752434 59.423092 24.752521 59.423120 24.752776 59.423123 24.752800</polyline>
+    <polyline>59.423008 24.751745 59.423082 24.752434</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-11-02T00:00:00+02:00</starttime>
     <endtime>2026-11-27T18:00:00+02:00</endtime>
@@ -188,7 +188,7 @@
     <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
     <description>Ehitustööd</description>
     <street>Lennuki</street>
-    <polyline>59.432175 24.758344 59.432522 24.757558 59.432547 24.757425 59.432887 24.756723</polyline>
+    <polyline>59.432175 24.758344 59.432522 24.757558 59.432547 24.757425 59.432886 24.756723</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-11-22T17:00:00+02:00</starttime>
     <endtime>2027-04-30T17:00:00+03:00</endtime>

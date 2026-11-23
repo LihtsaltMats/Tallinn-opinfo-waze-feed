@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T21:07:43+02:00",
+ "generated": "2026-11-23T21:38:35+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -173,7 +173,7 @@
     "url": "https://opinfo.tallinn.ee/menetlus/138939?objekt_id=344731"
    },
    "etak": {
-    "result": "sobitatud tänavaga 'Apteegi tänav' (77 m)"
+    "result": "sobitatud tänavaga 'Apteegi tänav' (72 m)"
    },
    "waze_map": {
     "street": "Apteegi",
@@ -225,7 +225,7 @@
     "url": "https://opinfo.tallinn.ee/menetlus/137073?objekt_id=356901"
    },
    "etak": {
-    "result": "sobitatud tänavaga 'Kodu tänav' (248 m)"
+    "result": "sobitatud tänavaga 'Kodu tänav' (233 m)"
    },
    "waze_map": {
     "street": "Kodu",
@@ -355,7 +355,7 @@
     "url": "https://opinfo.tallinn.ee/menetlus/145588?objekt_id=356124"
    },
    "etak": {
-    "result": "sobitatud tänavaga 'Masti tänav' (80 m)"
+    "result": "sobitatud tänavaga 'Masti tänav' (44 m)"
    },
    "waze_map": {
     "street": "Masti",
@@ -381,7 +381,7 @@
     "url": "https://opinfo.tallinn.ee/menetlus/145588?objekt_id=356128"
    },
    "etak": {
-    "result": "sobitatud tänavaga 'Masti tänav' (79 m)"
+    "result": "sobitatud tänavaga 'Masti tänav' (64 m)"
    },
    "waze_map": {
     "street": "Masti",
@@ -407,7 +407,7 @@
     "url": "https://opinfo.tallinn.ee/menetlus/145588?objekt_id=356129"
    },
    "etak": {
-    "result": "sobitatud tänavaga 'Purje tänav' (46 m)"
+    "result": "sobitatud tänavaga 'Purje tänav' (40 m)"
    },
    "waze_map": {
     "street": "Purje",
