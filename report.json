@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T21:38:35+02:00",
+ "generated": "2026-11-23T21:39:50+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -397,7 +397,7 @@
   },
   {
    "id": "tln-opinfo-356129-1",
-   "status": "published",
+   "status": "skipped",
    "opinfo": {
     "street": "Purje tn",
     "address": "Purje tn",
@@ -413,12 +413,13 @@
     "street": "Purje",
     "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.464724&lon=24.826482"
    },
-   "feed": {
-    "id": "tln-opinfo-356129-1",
-    "type": "ROAD_CLOSED",
-    "street": "Purje",
-    "start": "2026-12-16T18:01:00+02:00",
-    "end": "2026-12-18T18:00:00+02:00"
+   "feed": null,
+   "skip": {
+    "source": "Slack ❌",
+    "by": [
+     "UJG31K7PU"
+    ],
+    "at": "2026-11-23T21:39:50+02:00"
    }
   },
   {
