@@ -97,6 +97,54 @@
     <starttime>2026-11-25T09:00:00+02:00</starttime>
     <endtime>2026-11-27T19:00:00+02:00</endtime>
   </incident>
+  <incident id="tln-opinfo-356124-1">
+    <creationtime>2026-11-23T21:02:02+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/145588?objekt_id=356124</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Ehitustööd</description>
+    <street>Masti</street>
+    <polyline>59.464691 24.826689 59.464668 24.826656 59.464362 24.826164 59.464136 24.825803</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-12-14T08:01:00+02:00</starttime>
+    <endtime>2026-12-16T18:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-356128-1">
+    <creationtime>2026-11-23T21:02:02+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/145588?objekt_id=356128</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Ehitustööd</description>
+    <street>Masti</street>
+    <polyline>59.464688 24.826686 59.464668 24.826656 59.464362 24.826164 59.464139 24.825809</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-12-16T18:01:00+02:00</starttime>
+    <endtime>2026-12-18T18:00:00+02:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-356129-1">
+    <creationtime>2026-11-23T21:02:02+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/145588?objekt_id=356129</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Ehitustööd</description>
+    <street>Purje</street>
+    <polyline>59.464607 24.826806 59.464668 24.826656 59.464686 24.826612 59.464863 24.826181</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-12-16T18:01:00+02:00</starttime>
+    <endtime>2026-12-18T18:00:00+02:00</endtime>
+  </incident>
   <incident id="tln-opinfo-356901-1">
     <creationtime>2026-11-16T08:48:10+02:00</creationtime>
     <source>
