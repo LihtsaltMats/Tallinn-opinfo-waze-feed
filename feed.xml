@@ -191,7 +191,7 @@
     <starttime>2026-12-16T18:01:00+02:00</starttime>
     <endtime>2026-12-18T18:00:00+02:00</endtime>
   </incident>
-  <incident id="tln-opinfo-356195-1">
+  <incident id="tln-opinfo-356195-1-r2">
     <creationtime>2026-11-20T12:49:34+02:00</creationtime>
     <source>
       <reference>opinfo.tallinn.ee</reference>
@@ -205,7 +205,7 @@
     <polyline>59.424788 24.741209 59.424790 24.741209 59.425331 24.741221 59.425371 24.741222 59.425387 24.741490</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-11-17T08:30:00+02:00</starttime>
-    <endtime>2026-11-24T02:48:52+02:00</endtime>
+    <endtime>2026-11-27T17:00:00+02:00</endtime>
     <schedule>
       <monday>08:30-17:00</monday>
       <tuesday>08:30-17:00</tuesday>

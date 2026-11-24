@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T02:48:52+02:00",
+ "generated": "2026-11-24T02:54:48+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -359,7 +359,7 @@
   },
   {
    "id": "tln-opinfo-356195-1",
-   "status": "skipped",
+   "status": "published",
    "opinfo": {
     "street": "Uue Maailma tn",
     "address": "Uue Maailma tn",
@@ -376,18 +376,11 @@
     "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.425106&lon=24.741260"
    },
    "feed": {
-    "id": "tln-opinfo-356195-1",
+    "id": "tln-opinfo-356195-1-r2",
     "type": "ROAD_CLOSED",
     "street": "Uue Maailma",
     "start": "2026-11-17T08:30:00+02:00",
-    "end": "2026-11-24T02:48:52+02:00"
-   },
-   "skip": {
-    "source": "Slack ❌",
-    "by": [
-     "UJG31K7PU"
-    ],
-    "at": "2026-11-24T02:48:52+02:00"
+    "end": "2026-11-27T17:00:00+02:00"
    }
   },
   {
