@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T18:07:44+02:00",
+ "generated": "2026-11-24T20:07:41+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -132,6 +132,25 @@
    },
    "waze_map": {
     "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.405493&lon=24.663146"
+   },
+   "feed": null
+  },
+  {
+   "id": "tln-opinfo-357069-1",
+   "status": "unmatched",
+   "opinfo": {
+    "street": "Akadeemia tee",
+    "address": "Akadeemia tee",
+    "start": "2026-11-23T08:30:00+02:00",
+    "end": "2026-11-27T17:00:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/145910?objekt_id=357069"
+   },
+   "etak": {
+    "result": "suletud ala on tänava 'Akadeemia tee' kõrval, mitte sellel (17 m telgjoonest, tõenäoliselt kõrvaltee või sissesõit)"
+   },
+   "waze_map": {
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.397888&lon=24.670621"
    },
    "feed": null
   },
@@ -358,32 +377,6 @@
    }
   },
   {
-   "id": "tln-opinfo-356195-1",
-   "status": "published",
-   "opinfo": {
-    "street": "Uue Maailma tn",
-    "address": "Uue Maailma tn",
-    "start": "2026-11-17T08:30:00+02:00",
-    "end": "2026-11-27T17:00:00+02:00",
-    "full_closure": true,
-    "url": "https://opinfo.tallinn.ee/menetlus/142738?objekt_id=356195"
-   },
-   "etak": {
-    "result": "sobitatud tänavaga 'Uue Maailma tänav' (80 m)"
-   },
-   "waze_map": {
-    "street": "Uue Maailma",
-    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.425106&lon=24.741260"
-   },
-   "feed": {
-    "id": "tln-opinfo-356195-1-r2",
-    "type": "ROAD_CLOSED",
-    "street": "Uue Maailma",
-    "start": "2026-11-17T08:30:00+02:00",
-    "end": "2026-11-27T17:00:00+02:00"
-   }
-  },
-  {
    "id": "tln-opinfo-356904-1",
    "status": "published",
    "opinfo": {
@@ -407,6 +400,32 @@
     "street": "Lennuki",
     "start": "2026-11-22T17:00:00+02:00",
     "end": "2027-04-30T17:00:00+03:00"
+   }
+  },
+  {
+   "id": "tln-opinfo-357497-1",
+   "status": "published",
+   "opinfo": {
+    "street": "Krulli tn",
+    "address": "Krulli tn",
+    "start": "2026-11-24T08:00:00+02:00",
+    "end": "2026-11-27T17:00:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/140475?objekt_id=357497"
+   },
+   "etak": {
+    "result": "sobitatud tänavaga 'Krulli tänav' (91 m)"
+   },
+   "waze_map": {
+    "street": "Krulli",
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.450345&lon=24.721537"
+   },
+   "feed": {
+    "id": "tln-opinfo-357497-1",
+    "type": "ROAD_CLOSED",
+    "street": "Krulli",
+    "start": "2026-11-24T08:00:00+02:00",
+    "end": "2026-11-27T17:00:00+02:00"
    }
   },
   {
@@ -441,7 +460,7 @@
    "opinfo": {
     "street": "Raudtee tn",
     "address": "Raudtee tn 27",
-    "start": "2026-11-25T09:00:00+02:00",
+    "start": "2026-11-27T08:00:00+02:00",
     "end": "2026-11-27T19:00:00+02:00",
     "full_closure": true,
     "url": "https://opinfo.tallinn.ee/menetlus/145561?objekt_id=356008"
@@ -457,7 +476,7 @@
     "id": "tln-opinfo-356008-1",
     "type": "ROAD_CLOSED",
     "street": "Raudtee",
-    "start": "2026-11-25T09:00:00+02:00",
+    "start": "2026-11-27T08:00:00+02:00",
     "end": "2026-11-27T19:00:00+02:00"
    }
   },
