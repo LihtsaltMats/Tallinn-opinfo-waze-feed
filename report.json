@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T17:37:41+02:00",
+ "generated": "2026-11-24T18:07:44+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -459,32 +459,6 @@
     "street": "Raudtee",
     "start": "2026-11-25T09:00:00+02:00",
     "end": "2026-11-27T19:00:00+02:00"
-   }
-  },
-  {
-   "id": "tln-opinfo-356438-1",
-   "status": "published",
-   "opinfo": {
-    "street": "F. R. Kreutzwaldi tn",
-    "address": "F. R. Kreutzwaldi tn",
-    "start": "2026-12-07T09:30:00+02:00",
-    "end": "2026-12-11T17:00:00+02:00",
-    "full_closure": true,
-    "url": "https://opinfo.tallinn.ee/menetlus/145728?objekt_id=356438"
-   },
-   "etak": {
-    "result": "sobitatud tänavaga 'Friedrich Reinhold Kreutzwaldi tänav' (78 m)"
-   },
-   "waze_map": {
-    "street": "F. R. Kreutzwaldi",
-    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.434715&lon=24.768710"
-   },
-   "feed": {
-    "id": "tln-opinfo-356438-1",
-    "type": "ROAD_CLOSED",
-    "street": "F. R. Kreutzwaldi",
-    "start": "2026-12-07T09:30:00+02:00",
-    "end": "2026-12-11T17:00:00+02:00"
    }
   },
   {

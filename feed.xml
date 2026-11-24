@@ -214,22 +214,6 @@
       <friday>08:30-17:00</friday>
     </schedule>
   </incident>
-  <incident id="tln-opinfo-356438-1">
-    <creationtime>2026-11-24T17:35:39+02:00</creationtime>
-    <source>
-      <reference>opinfo.tallinn.ee</reference>
-      <name>Tallinna operatiivinfo</name>
-      <url>https://opinfo.tallinn.ee/menetlus/145728?objekt_id=356438</url>
-    </source>
-    <type>ROAD_CLOSED</type>
-    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
-    <description>Ehitustööd</description>
-    <street>F. R. Kreutzwaldi</street>
-    <polyline>59.435056 24.768918 59.434806 24.768803 59.434474 24.768642 59.434372 24.768595</polyline>
-    <direction>BOTH_DIRECTIONS</direction>
-    <starttime>2026-12-07T09:30:00+02:00</starttime>
-    <endtime>2026-12-11T17:00:00+02:00</endtime>
-  </incident>
   <incident id="tln-opinfo-356901-1">
     <creationtime>2026-11-16T08:48:10+02:00</creationtime>
     <source>
