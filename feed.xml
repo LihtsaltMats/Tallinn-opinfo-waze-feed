@@ -95,7 +95,7 @@
     <polyline>59.387188 24.673545 59.387181 24.673354 59.387157 24.672809 59.387135 24.672097 59.387115 24.671485 59.387090 24.670702 59.387070 24.670064 59.387058 24.669926 59.387045 24.669801 59.386972 24.669304 59.386823 24.668284</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-11-11T08:00:00+02:00</starttime>
-    <endtime>2026-11-25T18:00:00+02:00</endtime>
+    <endtime>2026-11-24T02:48:52+02:00</endtime>
     <schedule>
       <monday>08:00-18:00</monday>
       <tuesday>08:00-18:00</tuesday>
@@ -118,7 +118,7 @@
     <polyline>59.386650 24.673668 59.386692 24.673658 59.386861 24.673608 59.386950 24.673589 59.387035 24.673579 59.387156 24.673554 59.387188 24.673545 59.387824 24.673397</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-11-11T08:00:00+02:00</starttime>
-    <endtime>2026-11-25T18:00:00+02:00</endtime>
+    <endtime>2026-11-24T02:48:52+02:00</endtime>
     <schedule>
       <monday>08:00-18:00</monday>
       <tuesday>08:00-18:00</tuesday>
@@ -205,7 +205,7 @@
     <polyline>59.424788 24.741209 59.424790 24.741209 59.425331 24.741221 59.425371 24.741222 59.425387 24.741490</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-11-17T08:30:00+02:00</starttime>
-    <endtime>2026-11-27T17:00:00+02:00</endtime>
+    <endtime>2026-11-24T02:48:52+02:00</endtime>
     <schedule>
       <monday>08:30-17:00</monday>
       <tuesday>08:30-17:00</tuesday>
