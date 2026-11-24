@@ -81,6 +81,52 @@
     <starttime>2026-12-18T08:00:00+02:00</starttime>
     <endtime>2026-12-25T08:00:00+02:00</endtime>
   </incident>
+  <incident id="tln-opinfo-355237-1">
+    <creationtime>2026-08-05T12:20:49+03:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/138118?objekt_id=355237</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Tänavavalgustuse ehitus</description>
+    <street>Läänekaare</street>
+    <polyline>59.387188 24.673545 59.387181 24.673354 59.387157 24.672809 59.387135 24.672097 59.387115 24.671485 59.387090 24.670702 59.387070 24.670064 59.387058 24.669926 59.387045 24.669801 59.386972 24.669304 59.386823 24.668284</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-11T08:00:00+02:00</starttime>
+    <endtime>2026-11-25T18:00:00+02:00</endtime>
+    <schedule>
+      <monday>08:00-18:00</monday>
+      <tuesday>08:00-18:00</tuesday>
+      <wednesday>08:00-18:00</wednesday>
+      <thursday>08:00-18:00</thursday>
+      <friday>08:00-18:00</friday>
+    </schedule>
+  </incident>
+  <incident id="tln-opinfo-355240-1">
+    <creationtime>2026-08-05T12:20:49+03:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/138118?objekt_id=355240</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Tänavavalgustuse ehitus</description>
+    <street>Õuna</street>
+    <polyline>59.386650 24.673668 59.386692 24.673658 59.386861 24.673608 59.386950 24.673589 59.387035 24.673579 59.387156 24.673554 59.387188 24.673545 59.387824 24.673397</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-11T08:00:00+02:00</starttime>
+    <endtime>2026-11-25T18:00:00+02:00</endtime>
+    <schedule>
+      <monday>08:00-18:00</monday>
+      <tuesday>08:00-18:00</tuesday>
+      <wednesday>08:00-18:00</wednesday>
+      <thursday>08:00-18:00</thursday>
+      <friday>08:00-18:00</friday>
+    </schedule>
+  </incident>
   <incident id="tln-opinfo-356008-1">
     <creationtime>2026-11-20T20:04:25+02:00</creationtime>
     <source>
@@ -145,6 +191,29 @@
     <starttime>2026-12-16T18:01:00+02:00</starttime>
     <endtime>2026-12-18T18:00:00+02:00</endtime>
   </incident>
+  <incident id="tln-opinfo-356195-1">
+    <creationtime>2026-11-20T12:49:34+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/142738?objekt_id=356195</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Elektrikaabli paigaldamine</description>
+    <street>Uue Maailma</street>
+    <polyline>59.424788 24.741209 59.424790 24.741209 59.425331 24.741221 59.425371 24.741222 59.425387 24.741490</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-17T08:30:00+02:00</starttime>
+    <endtime>2026-11-27T17:00:00+02:00</endtime>
+    <schedule>
+      <monday>08:30-17:00</monday>
+      <tuesday>08:30-17:00</tuesday>
+      <wednesday>08:30-17:00</wednesday>
+      <thursday>08:30-17:00</thursday>
+      <friday>08:30-17:00</friday>
+    </schedule>
+  </incident>
   <incident id="tln-opinfo-356901-1">
     <creationtime>2026-11-16T08:48:10+02:00</creationtime>
     <source>
@@ -192,5 +261,28 @@
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-11-22T17:00:00+02:00</starttime>
     <endtime>2027-04-30T17:00:00+03:00</endtime>
+  </incident>
+  <incident id="tln-opinfo-356907-1">
+    <creationtime>2026-11-23T20:13:58+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/145862?objekt_id=356907</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Sidekaablite paigaldamine</description>
+    <street>Metsavahi põik</street>
+    <polyline>59.470084 24.836743 59.470227 24.836832 59.470233 24.836864 59.470175 24.837223</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-24T09:00:00+02:00</starttime>
+    <endtime>2026-11-27T17:00:00+02:00</endtime>
+    <schedule>
+      <monday>09:00-17:00</monday>
+      <tuesday>09:00-17:00</tuesday>
+      <wednesday>09:00-17:00</wednesday>
+      <thursday>09:00-17:00</thursday>
+      <friday>09:00-17:00</friday>
+    </schedule>
   </incident>
 </incidents>
