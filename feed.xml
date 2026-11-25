@@ -145,6 +145,22 @@
     <starttime>2026-12-16T18:01:00+02:00</starttime>
     <endtime>2026-12-18T18:00:00+02:00</endtime>
   </incident>
+  <incident id="tln-opinfo-356845-1">
+    <creationtime>2026-11-25T14:10:38+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/145838?objekt_id=356845</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Tee ehitamine</description>
+    <street>Spordi</street>
+    <polyline>59.421939 24.726422 59.421906 24.726503 59.421840 24.726639 59.421703 24.726887 59.421631 24.726995 59.421562 24.727097 59.421486 24.727189 59.421396 24.727278 59.421341 24.727316</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-30T08:00:00+02:00</starttime>
+    <endtime>2026-12-09T17:00:00+02:00</endtime>
+  </incident>
   <incident id="tln-opinfo-356901-1">
     <creationtime>2026-11-16T08:48:10+02:00</creationtime>
     <source>
