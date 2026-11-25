@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T18:37:23+02:00",
+ "generated": "2026-11-25T20:07:21+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -151,6 +151,25 @@
    },
    "waze_map": {
     "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.397888&lon=24.670621"
+   },
+   "feed": null
+  },
+  {
+   "id": "tln-opinfo-357286-1",
+   "status": "unmatched",
+   "opinfo": {
+    "street": "Akadeemia tee",
+    "address": "Akadeemia tee 14",
+    "start": "2026-11-26T08:30:00+02:00",
+    "end": "2026-11-27T16:30:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/145976?objekt_id=357286"
+   },
+   "etak": {
+    "result": "suletud ala on tänava 'Akadeemia tee' kõrval, mitte sellel (18 m telgjoonest, tõenäoliselt kõrvaltee või sissesõit)"
+   },
+   "waze_map": {
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.397665&lon=24.668625"
    },
    "feed": null
   },
@@ -420,8 +439,8 @@
    "opinfo": {
     "street": "Raudtee tn",
     "address": "Raudtee tn 27",
-    "start": "2026-11-27T08:00:00+02:00",
-    "end": "2026-11-27T19:00:00+02:00",
+    "start": "2026-11-26T08:00:00+02:00",
+    "end": "2026-11-26T19:00:00+02:00",
     "full_closure": true,
     "url": "https://opinfo.tallinn.ee/menetlus/145561?objekt_id=356008"
    },
@@ -436,8 +455,8 @@
     "id": "tln-opinfo-356008-1",
     "type": "ROAD_CLOSED",
     "street": "Raudtee",
-    "start": "2026-11-27T08:00:00+02:00",
-    "end": "2026-11-27T19:00:00+02:00"
+    "start": "2026-11-26T08:00:00+02:00",
+    "end": "2026-11-26T19:00:00+02:00"
    }
   },
   {
