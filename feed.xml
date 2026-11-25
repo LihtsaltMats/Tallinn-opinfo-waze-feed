@@ -81,6 +81,22 @@
     <starttime>2026-12-18T08:00:00+02:00</starttime>
     <endtime>2026-12-25T08:00:00+02:00</endtime>
   </incident>
+  <incident id="tln-opinfo-355625-1">
+    <creationtime>2026-11-25T20:30:00+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/145396?objekt_id=355625</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Tee ehitamine</description>
+    <street>Kuke</street>
+    <polyline>59.432479 24.755874 59.432727 24.756384</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-30T08:00:00+02:00</starttime>
+    <endtime>2026-12-02T10:00:00+02:00</endtime>
+  </incident>
   <incident id="tln-opinfo-356008-1">
     <creationtime>2026-11-25T19:37:35+02:00</creationtime>
     <source>
