@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T21:07:41+02:00",
+ "generated": "2026-11-25T03:07:21+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -328,13 +328,7 @@
     "street": "Läänekaare",
     "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.387075&lon=24.671012"
    },
-   "feed": {
-    "id": "tln-opinfo-355237-1",
-    "type": "ROAD_CLOSED",
-    "street": "Läänekaare",
-    "start": "2026-11-11T08:00:00+02:00",
-    "end": "2026-11-24T02:48:52+02:00"
-   },
+   "feed": null,
    "skip": {
     "source": "Slack ❌",
     "by": [
@@ -361,13 +355,7 @@
     "street": "Õuna",
     "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.387229&lon=24.673538"
    },
-   "feed": {
-    "id": "tln-opinfo-355240-1",
-    "type": "ROAD_CLOSED",
-    "street": "Õuna",
-    "start": "2026-11-11T08:00:00+02:00",
-    "end": "2026-11-24T02:48:52+02:00"
-   },
+   "feed": null,
    "skip": {
     "source": "Slack ❌",
     "by": [

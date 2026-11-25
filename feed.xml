@@ -81,52 +81,6 @@
     <starttime>2026-12-18T08:00:00+02:00</starttime>
     <endtime>2026-12-25T08:00:00+02:00</endtime>
   </incident>
-  <incident id="tln-opinfo-355237-1">
-    <creationtime>2026-08-05T12:20:49+03:00</creationtime>
-    <source>
-      <reference>opinfo.tallinn.ee</reference>
-      <name>Tallinna operatiivinfo</name>
-      <url>https://opinfo.tallinn.ee/menetlus/138118?objekt_id=355237</url>
-    </source>
-    <type>ROAD_CLOSED</type>
-    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
-    <description>Tänavavalgustuse ehitus</description>
-    <street>Läänekaare</street>
-    <polyline>59.387188 24.673545 59.387181 24.673354 59.387157 24.672809 59.387135 24.672097 59.387115 24.671485 59.387090 24.670702 59.387070 24.670064 59.387058 24.669926 59.387045 24.669801 59.386972 24.669304 59.386823 24.668284</polyline>
-    <direction>BOTH_DIRECTIONS</direction>
-    <starttime>2026-11-11T08:00:00+02:00</starttime>
-    <endtime>2026-11-24T02:48:52+02:00</endtime>
-    <schedule>
-      <monday>08:00-18:00</monday>
-      <tuesday>08:00-18:00</tuesday>
-      <wednesday>08:00-18:00</wednesday>
-      <thursday>08:00-18:00</thursday>
-      <friday>08:00-18:00</friday>
-    </schedule>
-  </incident>
-  <incident id="tln-opinfo-355240-1">
-    <creationtime>2026-08-05T12:20:49+03:00</creationtime>
-    <source>
-      <reference>opinfo.tallinn.ee</reference>
-      <name>Tallinna operatiivinfo</name>
-      <url>https://opinfo.tallinn.ee/menetlus/138118?objekt_id=355240</url>
-    </source>
-    <type>ROAD_CLOSED</type>
-    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
-    <description>Tänavavalgustuse ehitus</description>
-    <street>Õuna</street>
-    <polyline>59.386650 24.673668 59.386692 24.673658 59.386861 24.673608 59.386950 24.673589 59.387035 24.673579 59.387156 24.673554 59.387188 24.673545 59.387824 24.673397</polyline>
-    <direction>BOTH_DIRECTIONS</direction>
-    <starttime>2026-11-11T08:00:00+02:00</starttime>
-    <endtime>2026-11-24T02:48:52+02:00</endtime>
-    <schedule>
-      <monday>08:00-18:00</monday>
-      <tuesday>08:00-18:00</tuesday>
-      <wednesday>08:00-18:00</wednesday>
-      <thursday>08:00-18:00</thursday>
-      <friday>08:00-18:00</friday>
-    </schedule>
-  </incident>
   <incident id="tln-opinfo-356008-1">
     <creationtime>2026-11-24T19:51:53+02:00</creationtime>
     <source>
