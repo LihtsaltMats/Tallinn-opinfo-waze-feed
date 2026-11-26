@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T16:38:13+02:00",
+ "generated": "2026-11-26T19:08:13+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -502,32 +502,6 @@
     "street": "Sinirebase",
     "start": "2026-11-25T08:30:00+02:00",
     "end": "2026-11-27T08:00:00+02:00"
-   }
-  },
-  {
-   "id": "tln-opinfo-356008-1",
-   "status": "published",
-   "opinfo": {
-    "street": "Raudtee tn",
-    "address": "Raudtee tn 27",
-    "start": "2026-11-26T08:00:00+02:00",
-    "end": "2026-11-26T19:00:00+02:00",
-    "full_closure": true,
-    "url": "https://opinfo.tallinn.ee/menetlus/145561?objekt_id=356008"
-   },
-   "etak": {
-    "result": "sobitatud tänavaga 'Raudtee tänav' (40 m)"
-   },
-   "waze_map": {
-    "street": "Raudtee",
-    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.385540&lon=24.684058"
-   },
-   "feed": {
-    "id": "tln-opinfo-356008-1",
-    "type": "ROAD_CLOSED",
-    "street": "Raudtee",
-    "start": "2026-11-26T08:00:00+02:00",
-    "end": "2026-11-26T19:00:00+02:00"
    }
   },
   {
