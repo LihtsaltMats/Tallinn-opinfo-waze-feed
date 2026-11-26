@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T21:07:20+02:00",
+ "generated": "2026-11-26T16:38:13+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -453,6 +453,58 @@
    }
   },
   {
+   "id": "tln-opinfo-357870-1",
+   "status": "published",
+   "opinfo": {
+    "street": "Piibri tn",
+    "address": "Piibri tn",
+    "start": "2026-11-25T08:30:00+02:00",
+    "end": "2026-11-27T08:00:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/145277?objekt_id=357870"
+   },
+   "etak": {
+    "result": "sobitatud tänavaga 'Piibri tänav' (44 m)"
+   },
+   "waze_map": {
+    "street": "Piibri",
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.375084&lon=24.741222"
+   },
+   "feed": {
+    "id": "tln-opinfo-357870-1",
+    "type": "ROAD_CLOSED",
+    "street": "Piibri",
+    "start": "2026-11-25T08:30:00+02:00",
+    "end": "2026-11-27T08:00:00+02:00"
+   }
+  },
+  {
+   "id": "tln-opinfo-357871-1",
+   "status": "published",
+   "opinfo": {
+    "street": "Sinirebase tn",
+    "address": "Sinirebase tn",
+    "start": "2026-11-25T08:30:00+02:00",
+    "end": "2026-11-27T08:00:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/145277?objekt_id=357871"
+   },
+   "etak": {
+    "result": "sobitatud tänavaga 'Sinirebase tänav' (68 m)"
+   },
+   "waze_map": {
+    "street": "Sinirebase",
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.375033&lon=24.741389"
+   },
+   "feed": {
+    "id": "tln-opinfo-357871-1",
+    "type": "ROAD_CLOSED",
+    "street": "Sinirebase",
+    "start": "2026-11-25T08:30:00+02:00",
+    "end": "2026-11-27T08:00:00+02:00"
+   }
+  },
+  {
    "id": "tln-opinfo-356008-1",
    "status": "published",
    "opinfo": {
@@ -476,6 +528,58 @@
     "street": "Raudtee",
     "start": "2026-11-26T08:00:00+02:00",
     "end": "2026-11-26T19:00:00+02:00"
+   }
+  },
+  {
+   "id": "tln-opinfo-357872-1",
+   "status": "published",
+   "opinfo": {
+    "street": "Piibri tn",
+    "address": "Piibri tn",
+    "start": "2026-11-27T08:00:00+02:00",
+    "end": "2026-11-27T17:30:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/145277?objekt_id=357872"
+   },
+   "etak": {
+    "result": "sobitatud tänavaga 'Piibri tänav' (44 m)"
+   },
+   "waze_map": {
+    "street": "Piibri",
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.375000&lon=24.741061"
+   },
+   "feed": {
+    "id": "tln-opinfo-357872-1",
+    "type": "ROAD_CLOSED",
+    "street": "Piibri",
+    "start": "2026-11-27T08:00:00+02:00",
+    "end": "2026-11-27T17:30:00+02:00"
+   }
+  },
+  {
+   "id": "tln-opinfo-357873-1",
+   "status": "published",
+   "opinfo": {
+    "street": "Sinirebase tn",
+    "address": "Sinirebase tn",
+    "start": "2026-11-27T08:00:00+02:00",
+    "end": "2026-11-27T17:30:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/145277?objekt_id=357873"
+   },
+   "etak": {
+    "result": "sobitatud tänavaga 'Sinirebase tänav' (147 m)"
+   },
+   "waze_map": {
+    "street": "Sinirebase",
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.374397&lon=24.742086"
+   },
+   "feed": {
+    "id": "tln-opinfo-357873-1",
+    "type": "ROAD_CLOSED",
+    "street": "Sinirebase",
+    "start": "2026-11-27T08:00:00+02:00",
+    "end": "2026-11-27T17:30:00+02:00"
    }
   },
   {
