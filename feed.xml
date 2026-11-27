@@ -264,38 +264,6 @@
     <starttime>2026-11-25T08:00:00+02:00</starttime>
     <endtime>2026-11-27T18:00:00+02:00</endtime>
   </incident>
-  <incident id="tln-opinfo-357870-1">
-    <creationtime>2026-11-26T16:37:04+02:00</creationtime>
-    <source>
-      <reference>opinfo.tallinn.ee</reference>
-      <name>Tallinna operatiivinfo</name>
-      <url>https://opinfo.tallinn.ee/menetlus/145277?objekt_id=357870</url>
-    </source>
-    <type>ROAD_CLOSED</type>
-    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
-    <description>Ehitustööd</description>
-    <street>Piibri</street>
-    <polyline>59.375089 24.741607 59.375088 24.741533 59.375081 24.741137 59.375081 24.741022 59.375075 24.740837</polyline>
-    <direction>BOTH_DIRECTIONS</direction>
-    <starttime>2026-11-25T08:30:00+02:00</starttime>
-    <endtime>2026-11-27T08:00:00+02:00</endtime>
-  </incident>
-  <incident id="tln-opinfo-357871-1">
-    <creationtime>2026-11-26T16:37:04+02:00</creationtime>
-    <source>
-      <reference>opinfo.tallinn.ee</reference>
-      <name>Tallinna operatiivinfo</name>
-      <url>https://opinfo.tallinn.ee/menetlus/145277?objekt_id=357871</url>
-    </source>
-    <type>ROAD_CLOSED</type>
-    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
-    <description>Ehitustööd</description>
-    <street>Sinirebase</street>
-    <polyline>59.375300 24.740976 59.375273 24.740987 59.375224 24.741013 59.375145 24.741071 59.375081 24.741137 59.375045 24.741135 59.374984 24.741199 59.374918 24.741272 59.374854 24.741411 59.374826 24.741489 59.374822 24.741551 59.374825 24.741590</polyline>
-    <direction>BOTH_DIRECTIONS</direction>
-    <starttime>2026-11-25T08:30:00+02:00</starttime>
-    <endtime>2026-11-27T08:00:00+02:00</endtime>
-  </incident>
   <incident id="tln-opinfo-357872-1">
     <creationtime>2026-11-26T16:37:04+02:00</creationtime>
     <source>
