@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:38:14+02:00",
+ "generated": "2026-11-27T18:08:14+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -75,25 +75,6 @@
    },
    "waze_map": {
     "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.405098&lon=24.661560"
-   },
-   "feed": null
-  },
-  {
-   "id": "tln-opinfo-355581-1",
-   "status": "unmatched",
-   "opinfo": {
-    "street": "Kolde pst",
-    "address": "Kolde pst 76",
-    "start": "2026-11-11T08:00:00+02:00",
-    "end": "2026-11-27T18:00:00+02:00",
-    "full_closure": true,
-    "url": "https://opinfo.tallinn.ee/menetlus/134689?objekt_id=355581"
-   },
-   "etak": {
-    "result": "tänavat 'Kolde pst' ei leitud 40 m raadiuses (lähedal: Pelgulinn - Tee 10, Pelgulinn - Tee 9)"
-   },
-   "waze_map": {
-    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.440816&lon=24.703691"
    },
    "feed": null
   },
@@ -214,58 +195,6 @@
    }
   },
   {
-   "id": "tln-opinfo-356901-1",
-   "status": "published",
-   "opinfo": {
-    "street": "Kodu tn",
-    "address": "Kodu tn",
-    "start": "2026-11-02T00:00:00+02:00",
-    "end": "2026-11-27T18:00:00+02:00",
-    "full_closure": true,
-    "url": "https://opinfo.tallinn.ee/menetlus/137073?objekt_id=356901"
-   },
-   "etak": {
-    "result": "sobitatud tänavaga 'Kodu tänav' (233 m)"
-   },
-   "waze_map": {
-    "street": "Kodu",
-    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.422044&lon=24.752935"
-   },
-   "feed": {
-    "id": "tln-opinfo-356901-1",
-    "type": "ROAD_CLOSED",
-    "street": "Kodu",
-    "start": "2026-11-02T00:00:00+02:00",
-    "end": "2026-11-27T18:00:00+02:00"
-   }
-  },
-  {
-   "id": "tln-opinfo-356903-1",
-   "status": "published",
-   "opinfo": {
-    "street": "Tare tn",
-    "address": "Tare tn",
-    "start": "2026-11-02T00:00:00+02:00",
-    "end": "2026-11-27T18:00:00+02:00",
-    "full_closure": true,
-    "url": "https://opinfo.tallinn.ee/menetlus/137073?objekt_id=356903"
-   },
-   "etak": {
-    "result": "sobitatud tänavaga 'Tare tänav' (40 m)"
-   },
-   "waze_map": {
-    "street": "Tare",
-    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.423101&lon=24.752443"
-   },
-   "feed": {
-    "id": "tln-opinfo-356903-1",
-    "type": "ROAD_CLOSED",
-    "street": "Tare",
-    "start": "2026-11-02T00:00:00+02:00",
-    "end": "2026-11-27T18:00:00+02:00"
-   }
-  },
-  {
    "id": "tln-opinfo-345421-1",
    "status": "published",
    "opinfo": {
@@ -315,32 +244,6 @@
     "street": "Lennuki",
     "start": "2026-11-22T17:00:00+02:00",
     "end": "2027-04-30T17:00:00+03:00"
-   }
-  },
-  {
-   "id": "tln-opinfo-357498-1",
-   "status": "published",
-   "opinfo": {
-    "street": "Väike-Karja tn",
-    "address": "Väike-Karja tn 4",
-    "start": "2026-11-25T08:00:00+02:00",
-    "end": "2026-11-27T18:00:00+02:00",
-    "full_closure": true,
-    "url": "https://opinfo.tallinn.ee/menetlus/130380?objekt_id=357498"
-   },
-   "etak": {
-    "result": "sobitatud tänavaga 'Väike-Karja tänav' (40 m)"
-   },
-   "waze_map": {
-    "street": "Väike-Karja",
-    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.435791&lon=24.746997"
-   },
-   "feed": {
-    "id": "tln-opinfo-357498-1",
-    "type": "ROAD_CLOSED",
-    "street": "Väike-Karja",
-    "start": "2026-11-25T08:00:00+02:00",
-    "end": "2026-11-27T18:00:00+02:00"
    }
   },
   {

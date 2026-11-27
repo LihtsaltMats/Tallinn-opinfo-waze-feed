@@ -161,38 +161,6 @@
     <starttime>2026-11-30T08:00:00+02:00</starttime>
     <endtime>2026-12-09T17:00:00+02:00</endtime>
   </incident>
-  <incident id="tln-opinfo-356901-1">
-    <creationtime>2026-11-16T08:48:10+02:00</creationtime>
-    <source>
-      <reference>opinfo.tallinn.ee</reference>
-      <name>Tallinna operatiivinfo</name>
-      <url>https://opinfo.tallinn.ee/menetlus/137073?objekt_id=356901</url>
-    </source>
-    <type>ROAD_CLOSED</type>
-    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
-    <description>Gaasitrassi ehitus</description>
-    <street>Kodu</street>
-    <polyline>59.421007 24.753316 59.421116 24.753274 59.421776 24.752995 59.421889 24.752948 59.422437 24.752711 59.422653 24.752617 59.423049 24.752448</polyline>
-    <direction>BOTH_DIRECTIONS</direction>
-    <starttime>2026-11-02T00:00:00+02:00</starttime>
-    <endtime>2026-11-27T18:00:00+02:00</endtime>
-  </incident>
-  <incident id="tln-opinfo-356903-1">
-    <creationtime>2026-11-16T08:48:10+02:00</creationtime>
-    <source>
-      <reference>opinfo.tallinn.ee</reference>
-      <name>Tallinna operatiivinfo</name>
-      <url>https://opinfo.tallinn.ee/menetlus/137073?objekt_id=356903</url>
-    </source>
-    <type>ROAD_CLOSED</type>
-    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
-    <description>Gaasitrassi ehitus</description>
-    <street>Tare</street>
-    <polyline>59.423008 24.751745 59.423082 24.752434</polyline>
-    <direction>BOTH_DIRECTIONS</direction>
-    <starttime>2026-11-02T00:00:00+02:00</starttime>
-    <endtime>2026-11-27T18:00:00+02:00</endtime>
-  </incident>
   <incident id="tln-opinfo-356904-1">
     <creationtime>2026-11-17T10:46:46+02:00</creationtime>
     <source>
@@ -208,21 +176,5 @@
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-11-22T17:00:00+02:00</starttime>
     <endtime>2027-04-30T17:00:00+03:00</endtime>
-  </incident>
-  <incident id="tln-opinfo-357498-1">
-    <creationtime>2026-11-24T20:07:53+02:00</creationtime>
-    <source>
-      <reference>opinfo.tallinn.ee</reference>
-      <name>Tallinna operatiivinfo</name>
-      <url>https://opinfo.tallinn.ee/menetlus/130380?objekt_id=357498</url>
-    </source>
-    <type>ROAD_CLOSED</type>
-    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
-    <description>Tellingute paigaldamine</description>
-    <street>Väike-Karja</street>
-    <polyline>59.435929 24.746758 59.435829 24.746945 59.435727 24.747225 59.435709 24.747307</polyline>
-    <direction>BOTH_DIRECTIONS</direction>
-    <starttime>2026-11-25T08:00:00+02:00</starttime>
-    <endtime>2026-11-27T18:00:00+02:00</endtime>
   </incident>
 </incidents>
