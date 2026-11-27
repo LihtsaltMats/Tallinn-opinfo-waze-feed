@@ -177,4 +177,20 @@
     <starttime>2026-11-22T17:00:00+02:00</starttime>
     <endtime>2027-04-30T17:00:00+03:00</endtime>
   </incident>
+  <incident id="tln-opinfo-357498-1">
+    <creationtime>2026-11-27T20:15:20+02:00</creationtime>
+    <source>
+      <reference>opinfo.tallinn.ee</reference>
+      <name>Tallinna operatiivinfo</name>
+      <url>https://opinfo.tallinn.ee/menetlus/130380?objekt_id=357498</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
+    <description>Tellingute paigaldamine</description>
+    <street>Väike-Karja</street>
+    <polyline>59.435929 24.746758 59.435829 24.746945 59.435727 24.747225 59.435709 24.747307</polyline>
+    <direction>BOTH_DIRECTIONS</direction>
+    <starttime>2026-11-25T08:00:00+02:00</starttime>
+    <endtime>2026-12-01T18:00:00+02:00</endtime>
+  </incident>
 </incidents>

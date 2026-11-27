@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T18:08:14+02:00",
+ "generated": "2026-11-27T21:08:13+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -75,6 +75,44 @@
    },
    "waze_map": {
     "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.405098&lon=24.661560"
+   },
+   "feed": null
+  },
+  {
+   "id": "tln-opinfo-355273-1",
+   "status": "unmatched",
+   "opinfo": {
+    "street": "Kolde pst",
+    "address": "Kolde pst 80",
+    "start": "2026-11-09T09:00:00+02:00",
+    "end": "2026-12-04T17:00:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/134689?objekt_id=355273"
+   },
+   "etak": {
+    "result": "tänavat 'Kolde pst' ei leitud 40 m raadiuses (lähedal: Pelgulinn - Tee 10, Pelgulinn - Tee 6, Pelgulinn - Tee 7, Pelgulinn - Tee 8)"
+   },
+   "waze_map": {
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.441252&lon=24.701237"
+   },
+   "feed": null
+  },
+  {
+   "id": "tln-opinfo-355581-1",
+   "status": "unmatched",
+   "opinfo": {
+    "street": "Kolde pst",
+    "address": "Kolde pst 76",
+    "start": "2026-11-11T08:00:00+02:00",
+    "end": "2026-12-04T18:00:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/134689?objekt_id=355581"
+   },
+   "etak": {
+    "result": "tänavat 'Kolde pst' ei leitud 40 m raadiuses (lähedal: Pelgulinn - Tee 10, Pelgulinn - Tee 9)"
+   },
+   "waze_map": {
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.440816&lon=24.703691"
    },
    "feed": null
   },
@@ -244,6 +282,32 @@
     "street": "Lennuki",
     "start": "2026-11-22T17:00:00+02:00",
     "end": "2027-04-30T17:00:00+03:00"
+   }
+  },
+  {
+   "id": "tln-opinfo-357498-1",
+   "status": "published",
+   "opinfo": {
+    "street": "Väike-Karja tn",
+    "address": "Väike-Karja tn 4",
+    "start": "2026-11-25T08:00:00+02:00",
+    "end": "2026-12-01T18:00:00+02:00",
+    "full_closure": true,
+    "url": "https://opinfo.tallinn.ee/menetlus/130380?objekt_id=357498"
+   },
+   "etak": {
+    "result": "sobitatud tänavaga 'Väike-Karja tänav' (40 m)"
+   },
+   "waze_map": {
+    "street": "Väike-Karja",
+    "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.435791&lon=24.746997"
+   },
+   "feed": {
+    "id": "tln-opinfo-357498-1",
+    "type": "ROAD_CLOSED",
+    "street": "Väike-Karja",
+    "start": "2026-11-25T08:00:00+02:00",
+    "end": "2026-12-01T18:00:00+02:00"
    }
   },
   {
