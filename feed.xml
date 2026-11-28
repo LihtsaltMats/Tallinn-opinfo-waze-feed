@@ -9,7 +9,7 @@
     <polyline>58.529484 23.001255 58.531115 23.001754 58.531613 23.002028</polyline>
     <direction>BOTH_DIRECTIONS</direction>
     <starttime>2026-11-28T09:00:00+02:00</starttime>
-    <endtime>2026-12-04T17:00:00+02:00</endtime>
+    <endtime>2027-02-04T17:00:00+02:00</endtime>
     <schedule>
       <monday>09:00-17:00</monday>
       <tuesday>09:00-17:00</tuesday>
