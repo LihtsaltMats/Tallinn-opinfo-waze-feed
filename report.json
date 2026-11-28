@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:46:37+02:00",
+ "generated": "2026-11-28T10:47:52+02:00",
  "source": "https://opinfo.tallinn.ee/objektid/xml/183ac3aa",
  "items": [
   {
@@ -286,7 +286,7 @@
   },
   {
    "id": "tln-opinfo-357498-1",
-   "status": "skipped",
+   "status": "published",
    "opinfo": {
     "street": "Väike-Karja tn",
     "address": "Väike-Karja tn 4",
@@ -303,18 +303,11 @@
     "wme": "https://www.waze.com/en-GB/editor/?zoom=5&lat=59.435791&lon=24.746997"
    },
    "feed": {
-    "id": "tln-opinfo-357498-1",
+    "id": "tln-opinfo-357498-1-r2",
     "type": "ROAD_CLOSED",
     "street": "Väike-Karja",
     "start": "2026-11-25T08:00:00+02:00",
-    "end": "2026-11-28T10:46:37+02:00"
-   },
-   "skip": {
-    "source": "Slack ❌",
-    "by": [
-     "UJG31K7PU"
-    ],
-    "at": "2026-11-28T10:46:37+02:00"
+    "end": "2026-12-01T18:00:00+02:00"
    }
   },
   {
