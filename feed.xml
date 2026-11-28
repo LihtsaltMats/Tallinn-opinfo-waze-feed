@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Source: opinfo.tallinn.ee. Road geometry: Eesti topograafia andmekogu, Maa- ja Ruumiamet (CC BY 4.0) -->
 <incidents>
-  <incident id="manual-test-1">
+  <incident id="manual-schedule-test-1">
     <type>ROAD_CLOSED</type>
     <subtype>ROAD_CLOSED_CONSTRUCTION</subtype>
     <description>Test</description>
     <street>Kalda tee</street>
     <polyline>58.529484 23.001255 58.531115 23.001754 58.531613 23.002028</polyline>
     <direction>BOTH_DIRECTIONS</direction>
-    <starttime>2026-11-30T09:00:00+02:00</starttime>
+    <starttime>2026-11-28T09:00:00+02:00</starttime>
     <endtime>2026-12-04T17:00:00+02:00</endtime>
     <schedule>
       <monday>09:00-17:00</monday>
